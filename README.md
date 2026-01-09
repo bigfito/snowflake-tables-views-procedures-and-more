@@ -5,6 +5,7 @@
 
 | File | Description |
 |------|-------------|
+| `01_ddl_schema.sql` | Database, schema, and table definitions |
 | `06_table_view_types.sql` | **All table & view types** (Permanent, Transient, Temp, External, Iceberg, Hybrid + Standard, Secure, Materialized Views) |
 | `07_dynamic_tables.sql` | **Dynamic Tables** - Declarative medallion architecture pipeline |
 | `08_streams_tasks.sql` | **Streams & Tasks** - CDC and scheduled automation |
