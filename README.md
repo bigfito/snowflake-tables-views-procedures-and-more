@@ -72,16 +72,3 @@ DT_GOLD_DAILY_SALES    DT_GOLD_ITEM_PERFORMANCE
 | `SP_DETECT_SALES_ANOMALIES` | Python | Statistical anomaly detection |
 | `SP_RECOMMEND_ITEMS` | Python | Recommendation engine |
 | `SP_RUN_DATA_QUALITY_CHECKS` | SQL | Automated DQ framework |
-
----
-
-## Resources
-
-- [Snowflake Cortex Documentation](https://docs.snowflake.com/en/guides-overview-ai-features)
-- [Cortex Analyst Guide](https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-analyst)
-- [ML Functions Reference](https://docs.snowflake.com/en/guides-overview-ml-functions)
-- [LLM Functions Reference](https://docs.snowflake.com/en/sql-reference/functions/complete-snowflake-cortex)
-
----
-
-*Demo created for Snowflake Intelligence showcase. Data is synthetic and for demonstration purposes only.*
