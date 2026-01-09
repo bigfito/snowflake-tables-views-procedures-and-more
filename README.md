@@ -1,6 +1,15 @@
 # Snowflake Intelligence Demo Guide
 ## Pizzeria Bella Napoli 🍕
 
+## Files Included
+
+| File | Description |
+|------|-------------|
+| `06_table_view_types.sql` | **All table & view types** (Permanent, Transient, Temp, External, Iceberg, Hybrid + Standard, Secure, Materialized Views) |
+| `07_dynamic_tables.sql` | **Dynamic Tables** - Declarative medallion architecture pipeline |
+| `08_streams_tasks.sql` | **Streams & Tasks** - CDC and scheduled automation |
+| `09_stored_procedures.sql` | **Stored Procedures** - SQL, JavaScript, Python examples |
+
 ---
 
 ### Table Types Showcase (Script 06)
