@@ -1,5 +1,9 @@
-# Snowflake Intelligence Demo Guide
-## Pizzeria Bella Napoli 🍕
+# Snowflake Tables, Views, Procedures and More
+## Demo scripts for table and view types, dynamic tables, streams & tasks and stored procedures (Pizzeria Bella Napoli dataset)
+
+These scripts reuse the Pizzeria Bella Napoli data model shared with [snowflake-intelligence](https://github.com/bigfito/snowflake-intelligence). That repository covers Cortex and Snowflake Intelligence (Cortex Analyst, Cortex Search, and Cortex AI/ML). This one covers platform objects: table and view types, dynamic tables, streams and tasks, and stored procedures.
+
+Scripts `02` through `05` are not in this repository. They live in `snowflake-intelligence`: `02_sample_data_dimensions.sql`, `03_sample_data_facts.sql`, `04_semantic_model.yaml`, and `05_demo_queries.sql`. This repository keeps the shared schema (`01_ddl_schema.sql`) and continues with the platform-object scripts `06` through `09`.
 
 ## Files Included
 
